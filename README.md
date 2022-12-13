@@ -20,7 +20,7 @@ features like –
 - Real time up-to-date customer data
 - Faster compliance to change KYC regulations
 
-##Approach and Implementation –
+## Approach and Implementation –
 
 There are 3 stakeholders –
 1.	Admin / RBI – User who deploys the KYC smart contract. Has the ability to add New Banks, bans/permits bank to do KYC or add new customer.
@@ -35,10 +35,10 @@ By default KYC is set to Not Exist state for all the new customers unless KYC is
 
 Anyone can check if the KYC is done or not for a customer, by this making it convenient for all to retrieve information quickly and relying on single source of truth. Banks and RBI can also get all the details related to a customer by providing the account number.
 
-##Working flow –
+## Working flow –
 
 ![alt text](flow.png)
 
-##Conclusion –
+## Conclusion –
 
 Through the new Decentralized KYC process RBI and Banks can quickly do KYC and verify the KYC status of any customer. It becomes convenient and reliable for all the stakeholders to participate in this process and securely trust the single source of truth leveraged by Blockchain and Smart Contract technology.
